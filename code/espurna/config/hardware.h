@@ -709,6 +709,18 @@
     // LEDs
     #define LED1_PIN            13
     #define LED1_PIN_INVERSE    1
+    #define LED2_PIN            12
+    #define LED2_PIN_INVERSE    0
+
+    //	// Relays
+    //	#define RELAY1_PIN              12
+    //	#define RELAY2_PIN              5
+    //	#define RELAY3_PIN              4
+    //	#define RELAY4_PIN              15
+    //	#define RELAY1_TYPE             RELAY_TYPE_NORMAL
+    //	#define RELAY2_TYPE             RELAY_TYPE_NORMAL
+    //	#define RELAY3_TYPE             RELAY_TYPE_NORMAL
+    //	#define RELAY4_TYPE             RELAY_TYPE_NORMAL
 
     #define RF_SUPPORT          1
 
